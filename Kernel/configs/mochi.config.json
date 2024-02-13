@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "mochis",
-      "repo": "https://github.com/mateoalfaro/Android_kernel_xiaomi_vayu.git",
-      "branch": "stock",
-      "device": "vayu",
-      "defconfig": "vayu_defconfig"
+      "name": "lineage",
+      "repo": "https://github.com/samsung-sm6150-devs/android_kernel_samsung_sm6150.git",
+      "branch": "lineage-21",
+      "device": "a71",
+      "defconfig": "a71_defconfig"
     },
     "toolchains": [
       {
